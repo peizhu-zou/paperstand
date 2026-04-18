@@ -8,7 +8,7 @@ spaCy/scispaCy integration for named entity recognition.
 """
 
 import re
-from extract import extract_accession_codes
+from paperstand.extract import extract_accession_codes
 
 
 # ── Regex-based extractors ───────────────────────────────────────────────────
