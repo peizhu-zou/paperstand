@@ -1,0 +1,14 @@
+# Core
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+pandas>=2.0.0
+openpyxl>=3.1.0
+
+# Testing
+pytest>=7.4.0
+
+# ML pipeline (Group 2) — install when ready
+# pip install transformers torch
+# pip install scispacy
+# pip install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.3/en_core_sci_sm-0.5.3.tar.gz
